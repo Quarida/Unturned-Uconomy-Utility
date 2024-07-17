@@ -1,0 +1,12 @@
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\bin\Debug\UnturnedShopPlugin.exe.config
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\bin\Debug\UnturnedShopPlugin.exe
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\bin\Debug\UnturnedShopPlugin.pdb
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\bin\Debug\MySql.Data.dll
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.Properties.Resources.resources
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.csproj.CopyComplete
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.exe
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.pdb
+C:\Users\Enes\source\repos\UnturnedShopPlugin\UnturnedShopPlugin\obj\Debug\UnturnedShopPlugin.MainForm.resources
